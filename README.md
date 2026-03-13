@@ -23,11 +23,10 @@ Regular Expressions (`re` module)
 
 ## Project Structure
 
-password-strength-checker<br>
-│<br>
-├── main.py<br>
-├── requirements.txt<br>
-└── README.md
+password-strength-checker
+<br>
+~ main.py<br>
+~ README.md
 
 
 ##  How to Run
